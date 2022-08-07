@@ -13,7 +13,9 @@ Exercício do curso "**Java COMPLETO Programação Orientada a Objetos + Projeto
 >**Pessoa jurídica**: pessoas jurídicas pagam 16% de imposto. Porém, se a empresa possuir mais de 10 funcionários, ela paga 14% de imposto. 
 >**Exemplo**: uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica: 400000 * 14% = **56000.00**
 
-O programa deveria ter o resultado similar ao abaixo:
+
+### O programa deveria ter o resultado similar ao abaixo:
+
 
     Enter the number of tax payers: 3 
     Tax payer #1 data: 
@@ -38,7 +40,7 @@ O programa deveria ter o resultado similar ao abaixo:
     Bob: $ 29500.00 
     TOTAL TAXES: $ 97000.00
 
-A partir disso criei as seguintes classes e atributos:
+### A partir disso criei as seguintes classes e atributos:
 
  - Contribuinte:
 	 - nome
@@ -51,7 +53,7 @@ A partir disso criei as seguintes classes e atributos:
 	 - quantidadeFuncionarios
 
    
-O resultado do programa que criei, usando as entradas do exemplo acima:
+### Resultado do programa criado, usando as entradas do exemplo acima:
 
     Entre com o número de contribuintes: 3
     Digite os dados do contribuinte #1
